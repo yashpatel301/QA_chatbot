@@ -1,0 +1,12 @@
+langchain
+langchain-core
+langchain-community
+langchain-openai
+langchain_groq
+langchain-huggingface
+openai
+huggingface-hub
+langgraph
+pydantic
+python-dotenv
+streamlit
